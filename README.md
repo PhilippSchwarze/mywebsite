@@ -1,7 +1,6 @@
 # my Website
 This is a really awesome website
 
-## Purpose
+## Repository Purpose
 
 This file is just a readme file
-And some other mod
